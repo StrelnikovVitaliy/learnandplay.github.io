@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.55c36aeb.chunk.css",
-    "main.js": "/static/js/main.72f7ae24.chunk.js",
-    "main.js.map": "/static/js/main.72f7ae24.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/css/2.2109d0bc.chunk.css": "/static/css/2.2109d0bc.chunk.css",
-    "static/js/2.d07aa772.chunk.js": "/static/js/2.d07aa772.chunk.js",
-    "static/js/2.d07aa772.chunk.js.map": "/static/js/2.d07aa772.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.91d3ebf8543ba5434dfa86b0c4548cfb.js": "/precache-manifest.91d3ebf8543ba5434dfa86b0c4548cfb.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.2109d0bc.chunk.css.map": "/static/css/2.2109d0bc.chunk.css.map",
-    "static/css/main.55c36aeb.chunk.css.map": "/static/css/main.55c36aeb.chunk.css.map",
-    "static/media/shopping-cart.png": "/static/media/shopping-cart.598c157c.png"
+    "main.css": "/learnandplay.github.io/static/css/main.55c36aeb.chunk.css",
+    "main.js": "/learnandplay.github.io/static/js/main.72f7ae24.chunk.js",
+    "main.js.map": "/learnandplay.github.io/static/js/main.72f7ae24.chunk.js.map",
+    "runtime~main.js": "/learnandplay.github.io/static/js/runtime~main.d5fd3887.js",
+    "runtime~main.js.map": "/learnandplay.github.io/static/js/runtime~main.d5fd3887.js.map",
+    "static/css/2.2109d0bc.chunk.css": "/learnandplay.github.io/static/css/2.2109d0bc.chunk.css",
+    "static/js/2.d07aa772.chunk.js": "/learnandplay.github.io/static/js/2.d07aa772.chunk.js",
+    "static/js/2.d07aa772.chunk.js.map": "/learnandplay.github.io/static/js/2.d07aa772.chunk.js.map",
+    "index.html": "/learnandplay.github.io/index.html",
+    "precache-manifest.b87a8b269e980a0075d9f3d0aabd8a8f.js": "/learnandplay.github.io/precache-manifest.b87a8b269e980a0075d9f3d0aabd8a8f.js",
+    "service-worker.js": "/learnandplay.github.io/service-worker.js",
+    "static/css/2.2109d0bc.chunk.css.map": "/learnandplay.github.io/static/css/2.2109d0bc.chunk.css.map",
+    "static/css/main.55c36aeb.chunk.css.map": "/learnandplay.github.io/static/css/main.55c36aeb.chunk.css.map",
+    "static/media/shopping-cart.png": "/learnandplay.github.io/static/media/shopping-cart.598c157c.png"
   }
 }
